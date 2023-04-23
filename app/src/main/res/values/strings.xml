@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OTPBasedLoginTask</string>
+    <string name="Travelling_Bug">Welcome to Travelling Bug</string>
+    <string name="phone_number">Enter your phone number to continue</string>
+    <string name="number">Enter Your Number</string>
+    <string name="contin">Continue</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="policy">By Creating Passcode You Agree With Our <font fgcolor="red">Terms &amp; Conditions</font> And <font fgcolor="red"> Privacy Policy</font> </string>
+    <string name="otpSuggetion">Your Confirmation Code is below --- Enter It And We\'ll Help You Get Signed In.</string>
+    <string name="otpText">Don\'t Receive OTP <font fgcolor="red">Resend</font> </string>
+
+</resources>
